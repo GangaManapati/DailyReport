@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\bin\Debug\ConsoleApp24624.exe.config
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\bin\Debug\ConsoleApp24624.exe
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\bin\Debug\ConsoleApp24624.pdb
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\obj\Debug\ConsoleApp24624.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\obj\Debug\ConsoleApp24624.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\obj\Debug\ConsoleApp24624.exe
+C:\Users\Nimap\source\repos\ConsoleApp24624\ConsoleApp24624\obj\Debug\ConsoleApp24624.pdb
