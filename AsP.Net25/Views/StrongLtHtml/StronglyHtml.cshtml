@@ -1,0 +1,22 @@
+﻿@model AspNETMVc24.Models.Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StronglyHtml</title>
+</head>
+<body>
+    <div> 
+        @Html.TextBoxFor(x=>x.Name)
+        @Html.DisplayText("Name")
+        <input type="button" value="click me" />
+
+    @*@CustomHelper.Image("Src","My image")*@ 
+    </div>
+</body>
+</html>

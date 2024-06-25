@@ -1,0 +1,52 @@
+﻿@model AspNETMVc24.Models.Employee
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @Model.Id
+        @Model.Name
+        @Model.Description
+        @Model.Title
+        @DateTime.Now
+    </div>
+    @{
+        int a = 10;
+        int b = 12;
+        int c = a + b;
+
+
+
+    }
+
+    @(c%2==1?"C is an ODD":"C is an Even")
+    @if (c % 2 == 0)
+    {
+        <h1>even</h1>
+    }
+
+    @if (c % 2 == 1)
+    {
+        <h1>odd</h1>
+    }
+
+    @for (int i = 0; i < 9; i++)
+    {
+        <h1>@i</h1>
+    }
+
+
+    @*@foreach(int i in List)
+    {
+        <h1>@i</h1>
+    }*@
+</body>
+</html>

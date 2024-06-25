@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Html</title>
+</head>
+<body>
+    <div>
+
+        @helper M(string[] s)
+        {
+            <ul>
+                @foreach (var i in s)
+                {
+                    <li>@i</li>
+                }
+            </ul>
+        }
+
+    </div>
+    <div>
+        <label>
+            List of friends
+        </label>
+        <div>@M(new string[] { "ganga", "Lakshmi", "ram", "seetha" })</div>
+    </div>
+   
+
+</body>
+</html>

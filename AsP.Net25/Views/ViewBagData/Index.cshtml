@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @ViewBag.x
+        @ViewData["x"]
+
+        @foreach (var i in ViewBag.List)
+        {
+            <ul>@i</ul>
+        }
+
+
+
+        @ViewData["p"]
+        <h1>  View Bag</h1>
+        @ViewBag.p
+
+
+
+        @foreach (var i in (List<string>)ViewData["List"])
+        {
+            <ul>@i</ul>
+        }
+
+
+    </div>
+</body>
+</html>
