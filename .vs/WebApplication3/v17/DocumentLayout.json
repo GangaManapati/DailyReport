@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|c:\\users\\nimap\\source\\repos\\webapplication3\\webapplication3\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C8205-0F3D-4D67-BD5E-47EF1D441B20}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:39:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:37:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:56:37.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:55:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:55:03.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:53:19.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\WebApplication3\\WebApplication3\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:49:36.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
