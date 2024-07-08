@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\getcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\getcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\getcategorybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\getcategorybyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\models\\prodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\models\\prodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|c:\\users\\nimap\\source\\repos\\mvcwebapplication3\\mvcwebapplication3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2967D5-BB6B-46D6-88EA-284A9EDC920F}|MVCWebApplication3\\MVCWebApplication3.csproj|solutionrelative:mvcwebapplication3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\DeleteCategory.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\DeleteCategory.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\DeleteCategory.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\DeleteCategory.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T11:01:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\DeleteConfirmed.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T10:27:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\GetCategories.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\GetCategories.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\GetCategories.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\GetCategories.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T09:38:22.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T09:24:05.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCategoryById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\GetCategoryById.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\GetCategoryById.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\GetCategoryById.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\GetCategoryById.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T08:52:29.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Views\\Category\\UpdateCategory.cshtml",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeToolTip": "MVCWebApplication3\\Views\\Category\\UpdateCategory.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T08:49:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:19:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAACwAAADg065E7UowwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:36:49.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Models\\ProDbContext.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Models\\ProDbContext.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Models\\ProDbContext.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Models\\ProDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:13:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Models\\Category.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:13:03.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAGYAAAAAZ2ZmZmYOwGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:00:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\Program.cs",
+              "RelativeToolTip": "MVCWebApplication3\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAEwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:10:24.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
