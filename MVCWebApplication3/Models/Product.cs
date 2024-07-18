@@ -12,7 +12,7 @@ namespace MVCWebApplication3.Models
         public string Name { get; set; }
         public bool IsActive { get; set; } = true;
         [ForeignKey("Category")]
-        public int CategoryId { get; set; }
+        public int  CategoryId{ get; set; }
 
     }
 }

@@ -14,6 +14,5 @@ namespace MVCWebApplication3.Repository
         Task DeactivateCategoryAsync(int id);
         Task<List<Category>> GetActiveCategoriesAsync(int pageNumber, int pageSize);
         Task<List<Category>> GetDeactivatedCategoriesAsync(int pageNumber, int pageSize);
-
     }
 }

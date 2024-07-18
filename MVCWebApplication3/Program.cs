@@ -1,4 +1,6 @@
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using MVCWebApplication3.Controllers;
 using MVCWebApplication3.Models;
 using MVCWebApplication3.Repository;
 
@@ -6,14 +8,19 @@ namespace MVCWebApplication3
 {
     public class Program
     {
+        public static bool UseApi { get; private set; } = true;
         public static void Main(string[] args)
         {
+
+
             var builder = WebApplication.CreateBuilder(args);
+
+
+
             // for DbContext connection 
             builder.Services.AddDbContext<ProDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-            // Register repositories 
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
@@ -41,7 +48,11 @@ namespace MVCWebApplication3
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
-            app.Run();
+             app.Run();
         }
+
+        
+
+
     }
 }

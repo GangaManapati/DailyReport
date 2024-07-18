@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCWebApplication3.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MVCWebApplication3.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

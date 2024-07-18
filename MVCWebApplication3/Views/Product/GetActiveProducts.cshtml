@@ -1,0 +1,44 @@
+﻿@model IEnumerable<MVCWebApplication3.Models.Product>
+
+@{
+    ViewData["Title"] = "GetActiveProducts";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<h1>GetActiveProducts</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+                <td>
+                    <a asp-action="UpdateProduct" asp-route-id="@item.Id" style="color: #007bff; text-decoration: none;">Edit</a> |
+                    <a asp-action="GetProductById" asp-route-id="@item.Id" style="color: #007bff; text-decoration: none;">Details</a> |
+                    <a asp-action="DeleteProduct" asp-route-id="@item.Id" style="color: #dc3545; text-decoration: none;">Delete</a> |
+                    <a asp-action="DeactivateProduct" asp-route-id="@item.Id" style="color: #28a745; text-decoration: none;">Deactivate</a>
+
+                </td>
+        </tr>
+}
+    </tbody>
+</table>

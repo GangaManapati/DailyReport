@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lTKCFTQiPr6CqRgf6XHfsmpXEJ8xnrgHxxrPdfPJGkQ=",
+  "Hash": "0E/PKVFn9/IVy7N2g5u5HNsElCXbMKm72H0ArMAFIAE=",
   "Source": "MVCWebApplication3",
   "BasePath": "_content/MVCWebApplication3",
   "Mode": "Default",
@@ -16,44 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCWebApplication3.styles.css",
-      "SourceId": "MVCWebApplication3",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/MVCWebApplication3",
-      "RelativePath": "MVCWebApplication3.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVCWebApplication3.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCWebApplication3.bundle.scp.css",
-      "SourceId": "MVCWebApplication3",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/MVCWebApplication3",
-      "RelativePath": "MVCWebApplication3.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVCWebApplication3.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\Nimap\\source\\repos\\MVCWebApplication3\\MVCWebApplication3\\wwwroot\\css\\site.css",
       "SourceId": "MVCWebApplication3",

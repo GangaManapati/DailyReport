@@ -10,5 +10,6 @@ namespace MVCWebApplication3.Models
         public string Name { get; set; }
         public bool IsActive { get; set; } = true;
         public ICollection<Product>? Products { get; set; }
+       
     }
 }
